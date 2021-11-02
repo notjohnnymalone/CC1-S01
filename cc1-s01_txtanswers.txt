@@ -1,0 +1,22 @@
+CC1-S01 Part One Questions
+
+1)The difference is that the iterative code is much longer and more repetative in a way.
+The recursive code is more condensed and... 'simple'.
+
+2)In the recursive program it runs the same code each time with the length changing as you go.
+The iterative program runs different code almost everytime except where it can do the same moves with a
+	different length. It will only run the certain parts as long as the set conditions are met,
+	not just run one repeatedly until the main condition is met. recursion also calls itself.
+
+3)Iteration uses a bunch of loops until each condition is met.
+Recursion runs until the main condition is met, but is called in itself during.
+
+CC1-S01 Part Two
+
+1)Recursion would be good for when you have a highly repetative task and when you can
+end up shortening the code
+
+2)If you have a very large output that could crash your computer, when you don't have repetative tasks,
+or when you just don't want to....
+
+3)Calculating a factorial, or when you draw a symmetrical or complex geotric shape with turtles.
